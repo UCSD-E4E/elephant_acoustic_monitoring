@@ -1,0 +1,3 @@
+[submodule "ABGQI-CNN"]
+	path = ABGQI-CNN
+	url = https://github.com/CQuinn8/ABGQI-CNN.git
